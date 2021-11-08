@@ -106,15 +106,15 @@ NavMeshSettings:
   m_BuildSettings:
     serializedVersion: 2
     agentTypeID: 0
-    agentRadius: 0.5
+    agentRadius: 0.25
     agentHeight: 2
-    agentSlope: 45
+    agentSlope: 0
     agentClimb: 0.4
     ledgeDropHeight: 0
     maxJumpAcrossDistance: 0
     minRegionArea: 2
     manualCellSize: 0
-    cellSize: 0.16666667
+    cellSize: 0.083333336
     manualTileSize: 0
     tileSize: 256
     accuratePlacement: 0
@@ -130,6 +130,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1697686731}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -177,6 +185,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -192,6 +208,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1866466271}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -239,6 +263,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -287,6 +319,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1936422439}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -335,6 +375,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &41786321 stripped
@@ -349,6 +397,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 211620415}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -396,6 +452,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -476,6 +540,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2035658818}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -524,6 +596,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &47983994 stripped
@@ -538,6 +618,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 742525480}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -585,6 +673,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -898,15 +994,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400070, guid: 3353e4f866c39d043a315b41717c9bb7, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 490.6
+      value: 504.1
       objectReference: {fileID: 0}
     - target: {fileID: 400070, guid: 3353e4f866c39d043a315b41717c9bb7, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 20.84
+      value: 20.04
       objectReference: {fileID: 0}
     - target: {fileID: 400070, guid: 3353e4f866c39d043a315b41717c9bb7, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 504.38
+      value: 515.65
       objectReference: {fileID: 0}
     - target: {fileID: 400070, guid: 3353e4f866c39d043a315b41717c9bb7, type: 3}
       propertyPath: m_LocalRotation.w
@@ -961,6 +1057,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1483908096}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -1008,6 +1112,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -1056,6 +1168,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1696249528}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -1103,6 +1223,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -1118,6 +1246,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1866466271}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -1165,6 +1301,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -1180,6 +1324,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 722281159}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -1227,6 +1379,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -1242,6 +1402,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1906245778}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -1290,6 +1458,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &132121269 stripped
@@ -1304,6 +1480,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1082911479}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -1352,6 +1536,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &133014445 stripped
@@ -1366,6 +1558,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 869521131}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -1413,6 +1613,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -1462,6 +1670,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 722281159}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -1509,6 +1725,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -1524,6 +1748,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1378222882}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -1571,6 +1803,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -1622,6 +1862,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 910900088}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -1670,6 +1918,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &171683845 stripped
@@ -1684,6 +1940,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1847533505}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -1732,6 +1996,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &174376365 stripped
@@ -1746,6 +2018,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1050687220}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -1793,6 +2073,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -1808,6 +2096,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1109683743}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -1855,6 +2151,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -1903,6 +2207,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2124301783}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -1951,6 +2263,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &238737589 stripped
@@ -1965,6 +2285,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1847533505}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -2013,6 +2341,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &259945604 stripped
@@ -2027,6 +2363,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1127748061}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -2074,6 +2418,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -2089,6 +2441,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1050687220}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -2137,6 +2497,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &318046310 stripped
@@ -2151,6 +2519,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1358796890}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -2198,6 +2574,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -2213,6 +2597,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1320590408}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -2260,6 +2652,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -2275,6 +2675,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 910900088}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -2323,6 +2731,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &360030487 stripped
@@ -2337,6 +2753,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1753694638}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -2385,6 +2809,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &374199806 stripped
@@ -2399,6 +2831,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1174626567}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -2446,6 +2886,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -2461,6 +2909,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1787707437}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -2508,6 +2964,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -2523,6 +2987,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2133225727}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -2571,6 +3043,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &394741149 stripped
@@ -2585,6 +3065,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 742525480}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -2632,6 +3120,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -2647,6 +3143,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2111161382}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -2695,6 +3199,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &407917225 stripped
@@ -2709,6 +3221,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 483879030}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -2756,6 +3276,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -2783,6 +3311,43 @@ CapsuleCollider:
   m_Height: 1
   m_Direction: 1
   m_Center: {x: 0, y: 0.5, z: 0}
+--- !u!195 &427017967
+NavMeshAgent:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 427017963}
+  m_Enabled: 1
+  m_AgentTypeID: 0
+  m_Radius: 0.5
+  m_Speed: 3.5
+  m_Acceleration: 8
+  avoidancePriority: 50
+  m_AngularSpeed: 120
+  m_StoppingDistance: 0
+  m_AutoTraverseOffMeshLink: 1
+  m_AutoBraking: 1
+  m_AutoRepath: 1
+  m_Height: 2
+  m_BaseOffset: 0
+  m_WalkableMask: 4294967295
+  m_ObstacleAvoidanceType: 4
+--- !u!114 &427017968
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 427017963}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2efad2e852b87244e80afdb9d9769f6a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 1626867366}
+  minDistance: 20
+  agent: {fileID: 427017967}
 --- !u!1001 &430289690
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2790,6 +3355,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 742525480}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -2838,6 +3411,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &430289691 stripped
@@ -2852,6 +3433,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1753694638}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -2900,6 +3489,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &434127368 stripped
@@ -2914,6 +3511,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1127748061}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -2962,6 +3567,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &440175226 stripped
@@ -2979,6 +3592,14 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 780611a67e8e941a2b3aa96e5915a793, type: 3}
       propertyPath: m_Name
       value: WaterProDaytime
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 780611a67e8e941a2b3aa96e5915a793, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 780611a67e8e941a2b3aa96e5915a793, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 780611a67e8e941a2b3aa96e5915a793, type: 3}
       propertyPath: m_RootOrder
@@ -3041,6 +3662,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1358796890}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -3088,6 +3717,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -3137,6 +3774,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 148476583}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -3185,6 +3830,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &502309798 stripped
@@ -3199,6 +3852,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 85821265}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -3247,6 +3908,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &508787978 stripped
@@ -3261,6 +3930,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1488953312}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -3309,6 +3986,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &510213515 stripped
@@ -3323,6 +4008,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 148476583}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -3370,6 +4063,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -3418,6 +4119,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1847533505}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -3465,6 +4174,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -3480,6 +4197,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 41301482}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -3528,6 +4253,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &599734865 stripped
@@ -3542,6 +4275,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1697686731}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -3590,6 +4331,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &601168772 stripped
@@ -3604,6 +4353,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 742525480}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -3651,6 +4408,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -3666,6 +4431,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 211620415}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -3713,6 +4486,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -3728,6 +4509,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1021810258}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -3775,6 +4564,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -3790,6 +4587,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1787707437}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -3837,6 +4642,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -3852,6 +4665,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1127748061}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -3900,6 +4721,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &633510317 stripped
@@ -3914,6 +4743,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2133225727}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -3961,6 +4798,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -3976,6 +4821,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1906245778}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -4023,6 +4876,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -4038,6 +4899,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1320590408}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -4085,6 +4954,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -4100,6 +4977,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1819019817}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -4148,6 +5033,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &644720302 stripped
@@ -4162,6 +5055,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 560753047}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -4210,6 +5111,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &645915026 stripped
@@ -4224,6 +5133,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1753694638}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -4275,6 +5192,14 @@ PrefabInstance:
     - target: {fileID: 4592253923434527456, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: Speed
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -4417,6 +5342,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1488953312}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -4464,6 +5397,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -4589,6 +5530,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1394483383}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -4637,6 +5586,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &784409523 stripped
@@ -4651,6 +5608,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 148476583}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -4699,6 +5664,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &787471417 stripped
@@ -4713,6 +5686,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1906245778}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -4761,6 +5742,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &789243659 stripped
@@ -4775,6 +5764,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1320590408}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -4823,6 +5820,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &789981999 stripped
@@ -4837,6 +5842,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1174626567}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -4884,6 +5897,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -4899,6 +5920,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1480790970}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -4946,6 +5975,18 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923434527458, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -5075,6 +6116,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1480790970}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -5123,6 +6172,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &925034738 stripped
@@ -5137,6 +6194,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1021810258}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -5185,6 +6250,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &926980804 stripped
@@ -5199,6 +6272,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1394483383}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -5246,6 +6327,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -5261,6 +6350,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1483908096}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -5308,6 +6405,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -5323,6 +6428,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1378222882}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -5371,6 +6484,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &970677855 stripped
@@ -5385,6 +6506,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 41301482}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -5433,6 +6562,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &971944436 stripped
@@ -5447,6 +6584,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 85821265}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -5495,6 +6640,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &972018112 stripped
@@ -5542,6 +6695,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1050687220}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -5589,6 +6750,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -5637,6 +6806,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1697686731}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -5684,6 +6861,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -5865,6 +7050,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2111161382}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -5912,6 +7105,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -5927,6 +7128,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1488953312}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -5975,6 +7184,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &1139465420 stripped
@@ -5989,6 +7206,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1483908096}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -6036,6 +7261,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -6084,6 +7317,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1696249528}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -6132,6 +7373,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &1180022426 stripped
@@ -6139,72 +7388,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
   m_PrefabInstance: {fileID: 1180022425}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &1193537472
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1193537475}
-  - component: {fileID: 1193537474}
-  - component: {fileID: 1193537473}
-  m_Layer: 0
-  m_Name: EventSystem
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &1193537473
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1193537472}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_HorizontalAxis: Horizontal
-  m_VerticalAxis: Vertical
-  m_SubmitButton: Submit
-  m_CancelButton: Cancel
-  m_InputActionsPerSecond: 10
-  m_RepeatDelay: 0.5
-  m_ForceModuleActive: 0
---- !u!114 &1193537474
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1193537472}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_FirstSelected: {fileID: 0}
-  m_sendNavigationEvents: 1
-  m_DragThreshold: 10
---- !u!4 &1193537475
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1193537472}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 6
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1221706255
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6212,6 +7395,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 171576231}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -6260,6 +7451,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &1221706256 stripped
@@ -6274,6 +7473,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2133225727}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -6322,6 +7529,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253923434527458, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &1234344149 stripped
@@ -6336,6 +7555,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1378222882}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -6384,6 +7611,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &1247801183 stripped
@@ -6398,6 +7633,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1358796890}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -6446,6 +7689,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &1291921036 stripped
@@ -6460,6 +7711,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 171576231}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -6508,6 +7767,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &1311134832 stripped
@@ -6555,6 +7822,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1866466271}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -6602,6 +7877,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -6652,6 +7935,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 722281159}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -6700,6 +7991,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &1373583133 stripped
@@ -6714,6 +8013,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1696249528}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -6761,6 +8068,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -6809,6 +8124,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 211620415}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -6857,6 +8180,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &1378608704 stripped
@@ -6871,6 +8202,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 41301482}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -6918,6 +8257,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -6966,6 +8313,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1109683743}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -7014,6 +8369,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &1411133573 stripped
@@ -7028,6 +8391,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1787707437}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -7075,6 +8446,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -7191,6 +8570,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2111161382}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -7239,6 +8626,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &1492139761 stripped
@@ -7253,6 +8648,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 171576231}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -7301,6 +8704,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &1537706681 stripped
@@ -7315,6 +8726,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2111161382}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -7363,6 +8782,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &1547402338 stripped
@@ -7377,6 +8804,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1819019817}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -7425,6 +8860,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &1564918376 stripped
@@ -7439,6 +8882,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 869521131}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -7487,6 +8938,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &1565532239 stripped
@@ -7501,6 +8960,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1480790970}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -7549,6 +9016,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &1602046759 stripped
@@ -7563,6 +9038,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1753694638}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -7611,6 +9094,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &1610659959 stripped
@@ -7625,6 +9116,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 171576231}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -7673,6 +9172,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &1622348069 stripped
@@ -7687,6 +9194,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1936422439}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -7734,6 +9249,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -7763,6 +9286,11 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 112
   m_CollisionDetection: 0
+--- !u!4 &1626867366 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8997996947095583982, guid: c5efc39a8aaf6e64ea40e9ad573e9b47, type: 3}
+  m_PrefabInstance: {fileID: 44595871}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1631454372
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7770,6 +9298,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2035658818}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -7818,6 +9354,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &1631454373 stripped
@@ -7832,6 +9376,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1847533505}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -7880,6 +9432,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &1636351108 stripped
@@ -7894,6 +9454,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2111161382}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -7942,6 +9510,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &1649510573 stripped
@@ -7956,6 +9532,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 910900088}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -8004,6 +9588,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &1652888295 stripped
@@ -8018,6 +9610,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 148476583}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -8066,6 +9666,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &1664643440 stripped
@@ -8080,6 +9688,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1174626567}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -8128,6 +9744,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &1666574356 stripped
@@ -8142,6 +9766,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2124301783}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -8190,6 +9822,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &1676958424 stripped
@@ -8204,6 +9844,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1696249528}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -8251,6 +9899,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -8335,6 +9991,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1358796890}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -8383,6 +10047,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &1710944232 stripped
@@ -8397,6 +10069,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1936422439}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -8445,6 +10125,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &1720825406 stripped
@@ -8459,6 +10147,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2124301783}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -8506,6 +10202,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -8556,6 +10260,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1819019817}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -8604,6 +10316,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &1755327404 stripped
@@ -8618,6 +10338,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 869521131}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -8665,6 +10393,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -8680,6 +10416,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 560753047}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -8727,6 +10471,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -8775,6 +10527,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1488953312}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -8823,6 +10583,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &1801962214 stripped
@@ -8837,6 +10605,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 483879030}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -8885,6 +10661,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &1804197096 stripped
@@ -8899,6 +10683,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1847533505}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -8946,6 +10738,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -8961,6 +10761,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 85821265}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -9008,6 +10816,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -9056,6 +10872,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1082911479}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -9103,6 +10927,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -9153,6 +10985,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 483879030}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -9200,6 +11040,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -9248,6 +11096,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1082911479}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -9295,6 +11151,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -9310,6 +11174,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2035658818}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -9357,6 +11229,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -9405,6 +11285,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 722281159}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -9452,6 +11340,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -9467,6 +11363,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1109683743}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -9515,6 +11419,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &1923782889 stripped
@@ -9529,6 +11441,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1021810258}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -9576,6 +11496,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -9624,6 +11552,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1697686731}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -9672,6 +11608,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &1940897519 stripped
@@ -9686,6 +11630,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 171576231}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -9734,6 +11686,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &1956445008 stripped
@@ -9748,6 +11708,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 560753047}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -9796,6 +11764,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &1961418616 stripped
@@ -9810,6 +11786,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1753694638}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -9858,6 +11842,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &1962866553 stripped
@@ -9872,6 +11864,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1394483383}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -9919,6 +11919,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -9999,6 +12007,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1488953312}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -10047,6 +12063,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &2059135776 stripped
@@ -10061,6 +12085,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1697686731}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -10109,6 +12141,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &2059636014 stripped
@@ -10123,6 +12163,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1358796890}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -10170,6 +12218,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
@@ -10253,6 +12309,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 171576231}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -10301,6 +12365,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &2124483617 stripped
@@ -10348,6 +12420,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 483879030}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -10396,6 +12476,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
 --- !u!4 &2134600686 stripped
@@ -10410,6 +12498,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2035658818}
     m_Modifications:
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253923064070625, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4592253923363470182, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_Name
       value: Combwall
@@ -10457,6 +12553,14 @@ PrefabInstance:
     - target: {fileID: 4592253923363470183, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4592253924111224503, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c73e22e0cf8bc0459a8b68ca6e88bf4, type: 3}
