@@ -230,7 +230,21 @@ namespace Input
 			}
 		}
 
-		private void Use()
+        private void OnTriggerStay(Collider other)
+        {
+			if (other.gameObject.tag == "Door_left")
+			{
+				onposleft = true;
+			}
+			else if(other.gameObject.tag == "Door_right")
+            {
+				onposleft = false;
+            }
+		}
+
+		bool onposleft = false;
+
+        private void Use()
         {
 			Debug.Log("Use");
 			// Set origin of ray to 'center of screen' and direction of ray to 'cameraview'
@@ -247,9 +261,21 @@ namespace Input
 
 					// Give the object that was hit the name 'Door'
 					GameObject Door = hit.transform.gameObject;
-
+								
 					// Get access to the 'Door' script attached to the object that was hit
 					DoorRotationLite dooropening = Door.GetComponent<DoorRotationLite>();
+
+					if(dooropening.IsClosed)
+                    {
+						if(onposleft)
+                        {
+							dooropening.RotationAngle = -90;
+                        }
+						else
+                        {
+							dooropening.RotationAngle = 90;
+                        }
+                    }
 
 					if (_input.use)
 					{

@@ -41,6 +41,7 @@ public class DoorRotationLite : MonoBehaviour
 
     // An offset to take into account the original rotation of a 3rd party door
     Quaternion RotationOffset;
+    [HideInInspector] public bool IsClosed = true;
 
     void Start()
     {
@@ -186,7 +187,7 @@ public class DoorRotationLite : MonoBehaviour
             if (TimesMoveable == 0) TimesRotated = 0;
             else TimesRotated++;
         }
-
+        IsClosed = !IsClosed;
         RotationPending = false;
     }
 }
